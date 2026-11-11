@@ -1,0 +1,11 @@
+.local/
+node_modules/
+.env
+.env.*
+!.env.example
+.dev.vars*
+.sites-runtime/
+outputs/
+dist/server/
+dist/.openai/
+dist/client/
